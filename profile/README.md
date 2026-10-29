@@ -1,9 +1,9 @@
-<img src="banner.svg" alt="Craft Collective: shared forks of the Craft apps, for features upstream hasn't merged yet. Decided by their members, kept current every week." width="100%">
+<img src="banner.svg" alt="Craft Collective: shared forks of the Craft apps, for features upstream hasn't merged yet. Decided by their members, kept current by them." width="100%">
 
 Lots of good work on the [storytold](https://github.com/storytold) Craft apps sits in open pull requests, and the same feature is often written several times by different people. A **Craft Collective fork** gives one such feature a single home:
 - **A goal, written down** and adopted by vote, with its open questions settled the same way.
 - **One branch per repository**, in this org's copies of the apps.
-- **Shared upkeep:** members review each other's patches and take turns rebasing the fork onto upstream every Monday.
+- **Shared upkeep:** any member syncs the fork with upstream when it needs it, and another tests and reviews the sync. Each is credited with the work they do.
 
 Nobody here is a gatekeeper. Members decide in PR comments, and [a bot](https://github.com/craft-collective/pilot/tree/main/scripts) carries out what passes.
 
